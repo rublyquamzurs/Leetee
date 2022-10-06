@@ -1,5 +1,14 @@
 .DS_Store
 .idea/
 .vscode/
+.vs/
+out/
 cmake-build-debug/
 build/
+Debug/
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+

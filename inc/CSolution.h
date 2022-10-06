@@ -11,6 +11,7 @@
 #include <cmath>
 #include <iostream>
 #include <stack>
+#include <algorithm>
 
 
 template <typename T>
