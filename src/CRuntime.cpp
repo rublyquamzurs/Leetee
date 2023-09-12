@@ -44,4 +44,5 @@ void CRuntime::maintain() {
     append(RunFourSum);
     append(RunRemoveNthFromEnd);
     append(RunIsValid);
+    append(RunMergeTwoLists);
 }

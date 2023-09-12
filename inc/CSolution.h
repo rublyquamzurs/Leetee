@@ -42,6 +42,7 @@ void RunLetterCombinations();
 void RunFourSum();
 void RunRemoveNthFromEnd();
 void RunIsValid();
+void RunMergeTwoLists();
 
 class CSolution
 {
