@@ -45,4 +45,6 @@ void CRuntime::maintain() {
     append(RunRemoveNthFromEnd);
     append(RunIsValid);
     append(RunMergeTwoLists);
+    append(RunQuickSort);
+    append(RunRobotWithString);
 }

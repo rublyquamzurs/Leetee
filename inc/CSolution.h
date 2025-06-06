@@ -43,6 +43,9 @@ void RunFourSum();
 void RunRemoveNthFromEnd();
 void RunIsValid();
 void RunMergeTwoLists();
+void RunRobotWithString();
+
+void RunQuickSort();
 
 class CSolution
 {
